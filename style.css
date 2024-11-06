@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color:rgb(246, 153, 130) ;
+    width: 100%;
+    height: 125px;
+    display: inline-flex;
+    position: fixed;
+    z-index: 100;
+
+    
+
+}
+nav .one{
+    width: 100px;
+    height: 98px;
+    padding-top: 25px;
+    padding-left: 25px;
+    
+
+}
+nav li{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    padding-top: 20px;
+    font-size: 23px;
+
+}
+ .two{
+    width: 30px;
+  height: 30px;
+  
+ 
+    
+}
+.sender ul{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    gap:40px;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 25px;
+    left: 300px;
+    font-size: 20px;
+  
+
+}
+.right{
+     display: flex;
+     flex-direction: row;
+     padding-left: 400px;
+    padding-top: 40px;
+    margin-left: 150px;
+    gap: 10px;
+    
+} 
+.sender{
+    position: relative;
+    left: 200px;
+
+}
+
+.body{
+    width: 100% ;
+    height: 600px;
+    background-image:url(image/image3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    margin-top: 120px;
+    position: relative;
+    top: 5px;
+    
+   
+}
+.body p{
+    font-size: 40px;
+    padding-left: 50px;
+    padding-top: 250px;
+    font-size: 69px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+color: white;
+
+
+ 
+}
+.button1{
+    position: relative;
+    border-radius: 60px;
+    width: 150px;
+    height: 50px;
+    top: 20px;
+    left: 80px;
+    background: transparent;
+    border-color: white;
+    color: white;
+    border-style: solid;
+    cursor: pointer;
+    font-size: 16px;
+}
+.second-banner{
+    position: relative;
+    width: 100%;
+    height: 580px;
+    background-image: url(image/image2.png);
+    color: white;
+    background-size: cover;
+    
+    
+}
+
+
+
+
+.second-banner ul{
+    position: relative;
+    width: 600px;
+    height: 200px;
+    font-size: 40px;
+    align-items: center;
+    border-radius: 100px;
+    background-color: rgba(10,91,43,0.8);
+   
+    opacity: .60px;
+    padding-top: 30px;
+    padding-left: 90px;
+    top: 250px;
+    left: 350px;
+    text-decoration: none;
+    list-style: none;}
+    
+    
+ .one{
+    position: relative;
+    
+    font-size: 40px;
+    padding-left: 130px;
+}
+.tow{
+    font-size: 19px;
+    
+    display: inline;
+   
+padding-left: 50px;
+    
+}
+.button2{
+    background: transparent;
+    border-color: white;
+    color: white;
+    border-style: solid;
+    width: 145PX;
+    margin-left: 150PX;
+    margin-top: 18PX;
+    height: 35px;
+    border-radius: 40px;
+    font-size: 15px;
+    font-weight: 20px;
+    
+    
+}
+    
+.therd-banner{
+    width: 100%;
+    height: 650px;
+    background-image:url(image/NEW_7UP_Regular_ZeroSugar_Floating_Green.webp) ;
+color: white;
+}
+
+.therd-banner ul{
+    position: relative;
+    width: 600px;
+    height: 200px;
+    font-size: 40px;
+    align-items: center;
+    border-radius: 100px;
+    background-color: rgba(10,91,43,0.8);
+   
+    opacity: .60px;
+    padding-top: 30px;
+    padding-left: 90px;
+    top: 250px;
+    left: 350px;
+    text-decoration: none;
+    list-style: none;}
+    
+    
+ .three{
+    position: relative;
+    
+    font-size: 40px;
+    padding-left: 130px;
+}
+
+    
+
+.button3{
+    background: transparent;
+    border-color: white;
+    color: white;
+    border-style: solid;
+    width: 145PX;
+    margin-left: 150PX;
+    margin-top: 18PX;
+    height: 35px;
+    border-radius: 40px;
+    font-size: 15px;
+    font-weight: 20px;
+    
+    
+}
+.fourth{
+    font-size: 19px;
+    
+    display: inline;
+   
+padding-left: 50px;
+    
+
+}
+.fourth-banner{
+    background-color: rgb(63, 59, 59);
+    width: 100%;
+    height: 130px;
+}
+.fourth-banner li{
+    position: relative;
+    display: inline-flex;
+    padding-left: 20px;
+    left: 190px;
+    top: 20px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: lighter;
+font-size: 12px;
+    
+}
+.end p{
+    color: white;
+    position: relative;
+    top: 30px;
+    padding-left: 400px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-size: 12px;
+}
+
+
+
